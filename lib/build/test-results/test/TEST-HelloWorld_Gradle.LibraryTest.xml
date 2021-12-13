@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HelloWorld_Gradle.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-12T16:31:08" hostname="DESKTOP-C9KQTRO" time="0.014">
-  <properties/>
-  <testcase name="someLibraryMethodReturnsTrue()" classname="HelloWorld_Gradle.LibraryTest" time="0.014"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
